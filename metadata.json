@@ -1,0 +1,6 @@
+{
+  "name": "StrikeAI",
+  "description": "Know who to call. Know what to say. Win before you dial. An AI sales intelligence tool with Market Pressure Maps and Cold Call Co-Pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
